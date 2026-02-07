@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.py[cod]
+*.log
+logs/
+output_pdfs/
+pdf_exports/
+.venv/
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
+coverage/
+.dist/
+.DS_Store
